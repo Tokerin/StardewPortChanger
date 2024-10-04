@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StardewPortChanger", "StardewPortChanger\StardewPortChanger.csproj", "{8CDF33C2-3669-4134-BF73-E2E1F427D8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDF33C2-3669-4134-BF73-E2E1F427D8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDF33C2-3669-4134-BF73-E2E1F427D8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDF33C2-3669-4134-BF73-E2E1F427D8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDF33C2-3669-4134-BF73-E2E1F427D8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EFC852-134F-45B2-A502-DE6EDE88D141}
+	EndGlobalSection
+EndGlobal

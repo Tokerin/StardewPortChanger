@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Stardew Server Port Changer",
+  "Author": "Tokerin",
+  "Version": "1.1",
+  "Description": "Change the port your server is hosted on.",
+  "PerSaveConfigs": false,
+  "MinimumApiVersion": "4.0.8",
+  "UniqueID": "Tokerin.StardewPortChanger",
+  "EntryDll": "StardewPortChanger.dll",
+  "UpdateKeys": []
+}
